@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hridyanshu-notes/static/css/main.bf2a60bd.chunk.css",
+    "main.js": "/Hridyanshu-notes/static/js/main.a139f703.chunk.js",
+    "main.js.map": "/Hridyanshu-notes/static/js/main.a139f703.chunk.js.map",
+    "runtime-main.js": "/Hridyanshu-notes/static/js/runtime-main.d172bcb1.js",
+    "runtime-main.js.map": "/Hridyanshu-notes/static/js/runtime-main.d172bcb1.js.map",
+    "static/js/2.b0c2f67b.chunk.js": "/Hridyanshu-notes/static/js/2.b0c2f67b.chunk.js",
+    "static/js/2.b0c2f67b.chunk.js.map": "/Hridyanshu-notes/static/js/2.b0c2f67b.chunk.js.map",
+    "index.html": "/Hridyanshu-notes/index.html",
+    "static/css/main.bf2a60bd.chunk.css.map": "/Hridyanshu-notes/static/css/main.bf2a60bd.chunk.css.map",
+    "static/js/2.b0c2f67b.chunk.js.LICENSE.txt": "/Hridyanshu-notes/static/js/2.b0c2f67b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d172bcb1.js",
+    "static/js/2.b0c2f67b.chunk.js",
+    "static/css/main.bf2a60bd.chunk.css",
+    "static/js/main.a139f703.chunk.js"
+  ]
+}
